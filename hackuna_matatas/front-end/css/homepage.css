@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: black;
+}
+
+section {
+height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+color: white;
+}
+
+.section-bg {
+background-size: cover;
+background-position: center;
+}
+
+.section-text {
+font-family: 'Roboto', sans-serif;
+max-width: 600px;
+margin-bottom: 40px;
+}
+
+#home-first {
+background-image: url("/front-end/assets/homepage__image.png");
+}
+
+.home__title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 92px;
+  color: white;
+  text-align: center;
+}
+
+.about__container {
+  height: 100vh;
+  display: grid;
+  align-items: end;
+}
+
+.about__title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 92px;
+  color: white;
+  text-align: center;
+}
+
+.about__text {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+.about__text-container {
+max-width: 750px;
+margin: auto;
+}
+
+.about__image {
+  width: 100vw;
+  align-items: flex-end;
+  max-height: 450px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.mission__container {
+height: 100vh;
+display: grid;
+align-items: end;
+}
+
+.mission__title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 92px;
+  color: white;
+  text-align: center;
+}
+
+.mission__text {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+.mission__text-container {
+  max-width: 750px;
+  margin: auto;
+}
+
+.mission__image {
+  width: 100vw;
+  align-items: flex-end;
+  max-height: 450px;
+  object-fit: cover;
+  object-position: top;
+}
+
+#home__start-job {
+background-image: url("/front-end/assets/homepage__image.png");
+}
+
+.section-title {
+font-size: 36px;
+margin-bottom: 20px;
+}
+
+.section-text {
+max-width: 600px;
+text-align: center;
+line-height: 1.5em;
+}
+
+#start-job-btn {
+  margin: auto;
+  padding: 10px 28px;
+  display: flex;
+  background-color: transparent;
+  border: 1px solid #fff;
+  
+  font-family: 'Roboto', sans-serif;
+  font-size: 80px;
+  color: #fff;
+  cursor: pointer;
+  -moz-transition: all .2s ease-in;
+  -o-transition: all .2s ease-in;
+  -webkit-transition: all .2s ease-in;
+  transition: all .2s ease-in;
+}
+
+#start-job-btn:hover {
+  border: 1px solid greenyellow;
+  color: greenyellow;
+  background-color: transparent;
+  text-decoration: none;
+  -moz-transition: all .2s ease-in;
+  -o-transition: all .2s ease-in;
+  -webkit-transition: all .2s ease-in;
+  transition: all .2s ease-in;
+}
+
+.about__title,
+.mission__title {
+margin-bottom: 0.5em;
+}
+
+footer {
+background-color: #fff;
+color: black;
+text-align: center;
+padding: 10px 0;
+}

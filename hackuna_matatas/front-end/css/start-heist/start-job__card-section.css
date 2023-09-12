@@ -1,0 +1,66 @@
+#card-section {
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+}
+
+.profile-card {
+    font-size: 1.2em;
+    color: white;
+    border: solid 1px white;
+    max-width: 250px;
+    min-width: 200px;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+.profile-card img {
+    object-fit:cover;
+    height: 150px;
+    border: solid 1px white;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+#card-section .profile-card:hover, #card-section .profile-card.selected, #card-section .profile-card:hover img, #card-section .profile-card.selected img {
+    color: greenyellow;
+    border: greenyellow solid 1px;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+#card-section #card-6.profile-card:hover, #card-section #card-6.profile-card.selected, #card-section #card-6.profile-card:hover img, #card-section #card-section #card-6.profile-card.selected img {
+    color: #EF1D9E;
+    border: #EF1D9E solid 1px;
+}
+
+#card-section #card-3.profile-card:hover, #card-section #card-3.profile-card.selected, #card-section #card-3.profile-card:hover img, #card-section #card-3.profile-card.selected img {
+    color: #0A73FF;
+    border: #0A73FF solid 1px;
+}
+
+#card-section #card-5.profile-card:hover, #card-section #card-5.profile-card.selected, #card-section #card-5.profile-card:hover img, #card-section #card-5.profile-card.selected img {
+    color: #F1792F;
+    border: #F1792F solid 1px;
+}
+
+#card-section #card-4.profile-card:hover, #card-section #card-4.profile-card.selected, #card-section #card-4.profile-card:hover img, #card-section #card-4.profile-card.selected img {
+    color: rgb(141, 70, 26);
+    border: rgb(141, 70, 26) solid 1px;
+}
+
+#card-section #card-2.profile-card:hover, #card-section #card-2.profile-card.selected, #card-section #card-2.profile-card:hover img, #card-section #card-2.profile-card.selected img {
+    color: rgb(246, 221, 60);
+    border: rgb(246, 221, 60) solid 1px;
+}
+
+#card-section #card-7.profile-card:hover, #card-section #card-7.profile-card.selected, #card-section #card-7.profile-card:hover img, #card-section #card-7.profile-card.selected img {
+    color: black;
+    border: black solid 1px;
+    background-color: white;
+}

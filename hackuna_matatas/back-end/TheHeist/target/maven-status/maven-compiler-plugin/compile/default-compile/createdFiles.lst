@@ -1,0 +1,17 @@
+org/academiadecodigo/hackunamatatas/Dto/JobToJobDto.class
+org/academiadecodigo/hackunamatatas/persistence/WorkerDao.class
+org/academiadecodigo/hackunamatatas/Dto/WorkerToWorkerDto.class
+org/academiadecodigo/hackunamatatas/command/JobDto.class
+org/academiadecodigo/hackunamatatas/Dto/WorkerDtoToWorker.class
+org/academiadecodigo/hackunamatatas/service/JobServiceImpl.class
+org/academiadecodigo/hackunamatatas/controller/WorkerController.class
+org/academiadecodigo/hackunamatatas/model/Job.class
+org/academiadecodigo/hackunamatatas/Dto/AbstractConverter.class
+org/academiadecodigo/hackunamatatas/model/Worker.class
+org/academiadecodigo/hackunamatatas/persistence/JobDao.class
+org/academiadecodigo/hackunamatatas/Dto/JobDtoToJob.class
+org/academiadecodigo/hackunamatatas/service/WorkerServiceImpl.class
+org/academiadecodigo/hackunamatatas/controller/WorkerControllerREST.class
+org/academiadecodigo/hackunamatatas/persistence/GenericDao.class
+org/academiadecodigo/hackunamatatas/command/WorkerDto.class
+org/academiadecodigo/hackunamatatas/model/Skill.class

@@ -1,0 +1,77 @@
+.choose-team-roles {
+    display: flex;
+    flex: 1;
+    background-color: black;
+    align-content: center;
+}
+
+.choose-team-roles__title {
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 92px;
+    font-weight: 500;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+.choose-team-roles__options {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.choose-team-roles__options button {
+    margin: 5px;
+    padding: 10px 28px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+
+    background-color: black;
+    border: 1px solid #fff;
+
+    font-size: 24px;
+    font-weight: 300;
+    color: #fff;
+    cursor: pointer;
+}
+
+#submitRoles {
+    margin: 5px;
+    padding: 10px 28px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    background-color: #fff;
+    border: 1px solid black;
+
+    font-size: 24px;
+    font-weight: 300;
+    color: black;
+    cursor: pointer;
+}
+
+.choose-team-roles__options button:hover, .choose-team-roles__options button.selected {
+    border: 1px solid #F1792F;
+    color: #F1792F;
+    background-color: transparent;
+}
+
+#submitRoles:hover {
+    border: 1px solid #F1792F;
+    color: black;
+    background-color: #F1792F;
+}

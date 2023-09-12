@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+@import url("/front-end/css/start-heist/start-job__header.css");
+@import url("/front-end/css/start-heist/start-job__start-heist.css");
+@import url("/front-end/css/start-heist/start-job__choose-heist.css");
+@import url("/front-end/css/start-heist/start-job__choose-team-roles.css");
+@import url("/front-end/css/start-heist/start-job__submit.css");
+@import url("/front-end/css/homepage.css");
+@import url("/front-end/css/start-heist/start-job__card-section.css");
+@import url("/front-end/css/confirmation.css");
+
+
+.full-window {
+    height: 100vh;
+    display: grid;
+    align-items: center;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}

@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+{"alias":"Samuel L. Jackson","rate":420,"seniority":"senior","skill":"mastermind"}
+
+=======
+{"alias":"SamuelLJackson","hourlyRate":420,"seniority":5,"skills":[{"title": "mastermind"},{"title": "hacker"},{"title": "distraction"},{"title": "driver"},{"title": "muscle"}]}
+>>>>>>> caa96820f907fb1a6177e86acd493e52c4963f8a

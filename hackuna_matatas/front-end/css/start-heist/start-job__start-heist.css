@@ -1,0 +1,20 @@
+.start-heist {
+    flex: 1;
+}
+
+.start-heist__title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 92px;
+    font-weight: 500;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.start-heist__image {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+}

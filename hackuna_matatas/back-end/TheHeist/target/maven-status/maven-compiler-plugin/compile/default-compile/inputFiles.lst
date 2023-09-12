@@ -1,0 +1,17 @@
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/Dto/AbstractConverter.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/Dto/WorkerToWorkerDto.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/service/WorkerServiceImpl.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/controller/WorkerControllerREST.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/Dto/WorkerDtoToWorker.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/model/Job.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/model/Worker.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/service/JobServiceImpl.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/persistence/WorkerDao.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/Dto/JobDtoToJob.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/model/Skill.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/command/JobDto.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/Dto/JobToJobDto.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/persistence/GenericDao.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/persistence/JobDao.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/controller/WorkerController.java
+/home/luis/Desktop/AC/hackuna_matatas/back-end/TheHeist/src/main/java/org/academiadecodigo/hackunamatatas/command/WorkerDto.java
