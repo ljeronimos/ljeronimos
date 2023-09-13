@@ -13,6 +13,7 @@ Our objective, post Hackathon, was to make a legitimate version of the website w
 
 ## Visuals
 
+![Landing Page](https://github.com/ljeronimos/ljeronimos/blob/main/TheHeist/screenshots/landingPage.png?raw=true)
 
 ## Authors and acknowledgment
 The team:
