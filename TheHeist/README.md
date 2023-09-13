@@ -13,6 +13,25 @@ Our objective, post Hackathon, was to make a legitimate version of the website w
 
 ## Visuals
 
+Landing Page
+![Landing Page](https://github.com/ljeronimos/ljeronimos/blob/main/TheHeist/screenshots/landingPage.png?raw=true)
+
+Heist Page
+![Heist Page](https://github.com/ljeronimos/ljeronimos/blob/main/TheHeist/screenshots/heistPage.png?raw=true)
+
+Heist Selection Page
+![Heist Selection](https://github.com/ljeronimos/ljeronimos/blob/main/TheHeist/screenshots/heistSelection.png?raw=true)
+
+Roles Selection Page
+(different for each type of Heist)
+![Roles Selection](https://github.com/ljeronimos/ljeronimos/blob/main/TheHeist/screenshots/rolesSelection.png?raw=true)
+
+Team Selection Page
+(Shown according to the roles selected)
+![Team Selection](https://github.com/ljeronimos/ljeronimos/blob/main/TheHeist/screenshots/teamSelection.png?raw=true)
+
+Confirmation Page
+![Confirmation](https://github.com/ljeronimos/ljeronimos/blob/main/TheHeist/screenshots/finalPage.png?raw=true)
 
 ## Authors and acknowledgment
 The team:
